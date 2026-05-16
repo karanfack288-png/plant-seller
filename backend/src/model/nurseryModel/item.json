@@ -1,0 +1,28 @@
+{
+    "nursery": "66188b0a3b8dd212d07f2d01",
+    "plantName": "Snake Plant",
+    "price": 350,
+    "discount": 15,
+    "stock": 50,
+    "category": "Indoor",
+    "description": "The Snake Plant is one of the most popular and hardy houseplants.",
+    "images": [
+      {
+        "public_id": "snakeplant_main",
+        "url": "https://example.com/images/snakeplant_main.jpg"
+      }
+    ],
+    "imagesList": [
+      {
+        "public_id": "snakeplant_side",
+        "url": "https://example.com/images/snakeplant_side.jpg"
+      },
+      {
+        "public_id": "snakeplant_top",
+        "url": "https://example.com/images/snakeplant_top.jpg"
+      }
+    ],
+    "noOfVisit": 0,
+    "postedAt": "2025-04-12T10:00:00.000Z"
+  }
+  
